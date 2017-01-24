@@ -110,6 +110,7 @@ Who to email: Information in institution openproject ticket- grants and contract
 * PI signature not required on our end because their name is already printed but some schools require it on their end
 *  Ensure that all necessary pages are signed and initialed
 	+ Handwritten signature is required on lines for 'Signature of AOR'
+	+ Handwritten initials required
 	+ **send back if they missed initials** on page 2 and 3
 
 #### Send email follow up to OSP if the school doesn't respond for 2 weeks
