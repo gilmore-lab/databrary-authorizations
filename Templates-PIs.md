@@ -41,6 +41,21 @@ Please let me know if you have further questions regarding the authorization pro
 Many thanks,
 Andrea
 
+## Email to someone wanting to know how to gain affiliate access
+
+Subject: Databrary access
+
+Dear Ms./Mr./Dr. [Last Name],
+
+I am glad you are interested in utilizing Databrary. Since you are a **[postdoctoral fellow, student, staff]**, your PI will need to complete the registration​ process (https://nyu.databrary.org/user/register?page=create) by creating an account and ​requesting ​authorization. After your PI has been granted authorization, they may add you as an "affiliate". Affiliate access may be granted by following the directions below.
+
+
+1. The Affiliate needs to create an account on Databrary by selecting the 'register' link in the upper right corner. Complete only the 'create account' tab on the left side of the screen. 
+
+2. The Authorized Investigator needs add an Affiliate. First, navigate to your profile page, click on the pencil icon to the right of your name, then navigate down and select the Affiliates Tab. Type the name of the Affiliate you want to add in the search box. You will then select the appropriate radio button to 'Allow access to others' data shared on Databrary' in addition to selecting the radio button to 'Grant access to your group/lab data'.
+
+Please let me know if I may be of further assistance.
+
 # EMAIL TO PI REQUESTING APPROVAL TO SUBMIT THEIR AUTHORIZATION
 
 ## When official is not known to PI
@@ -408,7 +423,7 @@ Lisa
 
 #CONGRATS ON YOUR AUTHORIZATION
 
-Subject: Received signed Databrary Agreement
+Subject: Received Signed Databrary Agreement
 
 Dear [Dr. Name],
 

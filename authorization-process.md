@@ -102,7 +102,7 @@ Who to email: Information in institution openproject ticket- grants and contract
 	+ Email of OSP
 	+ CC researcher requesting auth, authorize@databrary.org, Karen
 	+ Attach agreement with revisions if necessary or their original agreement
-	+ Subject: Databrary Access Agreement for Dr. [Full Name
+	+ Subject: Databrary Access Agreement for Dr. [Full Name]
 	+ Fill in other name spots in the email
 	+ Mark status of authorization ticket in OpenProject as "Submitted"
 
