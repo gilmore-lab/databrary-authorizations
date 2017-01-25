@@ -93,6 +93,8 @@ Andrea
 
 # CAN'T FIND THE AUTHORIZATION OFFICIAL - U.S.
 
+Subject: Your Databrary Authorization
+
 Dear Dr. [Last Name],
 
 Thank you for registering on Databrary. We've received your request for authorization and need to send your agreement to your university for their approval. The agreement should get submitted to the office that handles research administration or research agreements--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and they confirm that the university has ethical oversight of your research activities.
@@ -432,14 +434,14 @@ Andrea
 
 # FOLLOW UP FROM MONTHS OF NO RESPONSE OF SUBMITTED AGREEMENT
 
-Dear Dr. Bryant,
+Dear Dr. [PI Last Name],
 
 It’s been a couple months since we’ve heard from your school's SRO about your submitted authorization request for Databrary access. Were there any issues or questions that they raised that we could help with?
 
 We’d love to help you get authorized for Databrary access. Would you like us to follow up with your SRO again? If we still don’t hear anything, a nudge from you might help get your authorization back on their radar. Please let me know if there is anything we can do to help.
 
 Best,
-Vicky
+Andrea
 
 ## FOLLOW UP FROM MONTHS OF NO RESPONSE FROM SCHOOL, ASKING TO SUBMIT TO NEW PERSON  (IF NEEDED)
 
