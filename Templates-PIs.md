@@ -56,6 +56,20 @@ I am glad you are interested in utilizing Databrary. Since you are a **[postdoct
 
 Please let me know if I may be of further assistance.
 
+
+## Email to someone wanting to know how to request access
+
+Subject: Databrary access
+
+Dear Ms./Mr./Dr. [Last Name],
+
+I am glad you are interested in utilizing Databrary. Please complete the registration​ process (https://nyu.databrary.org/user/register?page=create) by creating an account and ​requesting ​authorization. This requires that the first 6 tabs on the left hand side of the page be completed. These steps have you enter the required information to initiate the authorization process. 
+
+Please let me know if I may be of further assistance.
+
+Many thanks,
+Andrea
+
 # EMAIL TO PI REQUESTING APPROVAL TO SUBMIT THEIR AUTHORIZATION
 
 ## When official is not known to PI
@@ -469,7 +483,7 @@ May I follow up with your OSR again? It seems like the new person to contact abo
 Best,
 Lisa
 
-#FOLLOW UP FROM NONRESPONSIVE PI
+# FOLLOW UP FROM NONRESPONSIVE PI
 
 Dear [RESEARCHER],
 
@@ -479,8 +493,8 @@ Best,
 Vicky
 
 
-#IRB APPROVAL NOT NECESSARY
-Dear Jean,
+# IRB APPROVAL NOT NECESSARY
+Dear Dr. [Last Name],
 
 The IRB stipulation has not caused delays with approving the Databrary Access Agreement at other institutions. We designed the access agreement to be different than the standard DUA model that typically aims to enable a specific person access to a specific dataset for a specific research purpose.
 
@@ -489,7 +503,14 @@ The Databrary Access Agreement is designed to authorize researchers to access to
 I’m happy to talk anytime if you’d like to talk through our access model or if you have any other questions about the authorization process.
 
 Many thanks,
-Lisa
+Andrea
+
+# DUA vs. Databrary Agreement
+
+To provide a bit of background, this Agreement is different from a traditional DUA because there is no obligation for authorized investigators to use or to contribute data. Once our researchers are planning to share data from lab or repurpose shared data, they would seek proper IRB approval for those activities. Please let me know if you have any questions or if I can help in any way.
+
+Best,
+Andrea
 
 
 # UNSURE ABOUT WHO SIGNED THE AGREEMENT- DEAN
