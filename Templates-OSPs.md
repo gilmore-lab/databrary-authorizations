@@ -40,7 +40,7 @@ osp.agency@nyu.edu (contract email no longer accepting emails)
 
 Subject: Databrary Access Agreement for Dr. [PI Full Name]
 
-Dear CO,
+Dear Contract Office,
 
 Dr. **[name]** has registered on databrary.org and is seeking authorization for full access to Databrary.
 
