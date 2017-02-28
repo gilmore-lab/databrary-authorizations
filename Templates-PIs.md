@@ -209,7 +209,7 @@ CC KAREN ON PEOPLE KAREN DOESN'T KNOW. SEND EMAIL, SUBJECT, AND COPY TO KAREN IF
 Email: Karen,
 Copy: authorize@databrary.org
 
-Subject: Following up on your Databrary authorization request
+Subject: Please review and send: Following up on your Databrary authorization request
 
 Researcher email:
 
@@ -225,7 +225,7 @@ Karen Adolph
 ## From Karen for PIs who haven't responded in months
 Email: Karen
 Copy: authorize@databrary.org
-Subject: Following up on your Databrary authorization request
+Subject: Please review and send: Following up on your Databrary authorization request
 
 Researcher Email:
 
@@ -248,7 +248,7 @@ Karen Adolph
 Email: Karen
 Copy: authorize@databrary.org
 
-Subject: Following up on your authorization request
+Subject: Please review and send: Following up on your authorization request
 
 Email: [FILL IN]
 
@@ -267,7 +267,7 @@ Karen Adolph
 Email: Karen
 Copy: authorize@databrary.org
 
-Subject: Following up on your authorization request
+Subject: Please review and send: Following up on your authorization request
 Researcher Email:
 
 Dear Dr. [RESEARCHER],
@@ -283,7 +283,7 @@ Karen Adolph
 
 # From Databrary or Karen- congrats on auth after LONG time
 SEND WHETHER KEA KNOWS THEM OR NOT
-Subject: Following up on your authorization request
+Subject: Please review and send: Following up on your authorization request
 Copy: authorize@databrary.org
 
 Dear [RESEARCHER],
