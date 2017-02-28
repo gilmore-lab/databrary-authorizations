@@ -12,7 +12,7 @@ Attached is the e-signed agreement for your review. Please complete and sign pag
 
 If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please let me know if you have any questions or need any further information.
 
-Many thanks,
+Many thanks,  
 Andrea
 
 # Previously approved institution
@@ -31,7 +31,7 @@ Attached is the e-signed agreement for your review. Since you have previously co
 
 If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please let me know if you have any questions or need any further information.
 
-Many thanks,
+Many thanks,  
 Andrea
 
 # NYU
@@ -48,7 +48,7 @@ Attached is the e-signed agreement.
 
 If you could kindly return the fully executed copy to me after you have signed it, that would be greatly appreciated.
 
-Many thanks,
+Many thanks,  
 Andrea
 
 # PSU
@@ -107,17 +107,7 @@ Dear [AUTHORIZING OFFICIAL],
 
 ​Can you offer any update​s ​regarding Dr. **[RESEARCHER FULL NAME]**’s authorization request for Databrary access through **[INSTITUTION]**? We would like to get Dr. **[RESEARCHER LAST NAME]** authorized as soon as possible so **[she/he]** may access Databrary's shared resources and data. Please let me know if I can provide any assistance or if there is another person whom I should work with on this agreement.
 
-Best regards,
-Andrea
-
-
-Subject: Following up on Dr. [FULL NAME]'s Databrary Access Agreement
-
-Dear [AUTHORIZING OFFICIAL],
-
-I understand that you were working with Vicky here at Databrary on Dr. **[RESEARCHER FULL NAME]**’s access agreement. Can you offer any updates regarding Dr. **[RESEARCHER LAST NAME]**'s authorization request for Databrary access through **[INSTITUTION]**? We would like to get Dr. **[RESEARCHER LAST NAME]** authorized as soon as possible so she can access Databrary's shared resources and data. Please let me know if I can provide any assistance or if there is another person whom I should work with on this agreement.
-
-Best regards,
+Best regards,  
 Andrea
 
 # FOLLOW UP EMAIL WHEN WRITING TO NEW OSP OFFICIAL
