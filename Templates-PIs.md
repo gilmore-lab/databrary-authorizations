@@ -201,6 +201,17 @@ Once we know the best office or official to contact, can I have your permission 
 Many thanks,
 Andrea
 
+## Following up to determine AOR
+
+Dear Dr. [PI LAST NAME],
+
+Have you had the opportunity to determine the Authorizing Official for your institution? 
+
+As a reminder the agreement should get submitted to the office that handles research administration or research agreements--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and they confirm that the university has ethical oversight of your research activities.
+
+Many thanks,
+Andrea
+
 
 # DRAFT EMAILS- KAREN
 CC KAREN ON PEOPLE KAREN DOESN'T KNOW. SEND EMAIL, SUBJECT, AND COPY TO KAREN IF SHE KNOWS THEM
