@@ -49,10 +49,18 @@ Dear Ms./Mr./Dr. [Last Name],
 
 I am glad you are interested in utilizing Databrary. Since you are a **[postdoctoral fellow, student, staff]**, your PI will need to complete the registration​ process (https://nyu.databrary.org/user/register?page=create) by creating an account and ​requesting ​authorization. After your PI has been granted authorization, they may add you as an "affiliate". Affiliate access may be granted by following the directions below.
 
+Affiliate  
+1. Create an account on Databrary by selecting the 'register' link in the upper right corner. Complete only the 'create account' tab on the left side of the screen.   
+2. Go to the profile page of your supervising professor on Databrary.  
+3. Click on the button 'Apply for authorization from [Supervising professor name]' near the bottom of the page.  
 
-1. The Affiliate needs to create an account on Databrary by selecting the 'register' link in the upper right corner. Complete only the 'create account' tab on the left side of the screen. 
+Authorized Investigator   
+Your supervising professor will need to log in and grant you access by completing the following:  
+1. Click on the edit button (the little pencil) next to your name  
+2. Choose the affiliates tab  
+3. Select the appropriate radio buttons to 'Allow access to others' data shared on Databrary' in addition to selecting the radio button to 'Grant access to your group/lab data'.  
+4. Save Changes  
 
-2. The Authorized Investigator needs add an Affiliate. First, navigate to your profile page, click on the pencil icon to the right of your name, then navigate down and select the Affiliates Tab. Type the name of the Affiliate you want to add in the search box. You will then select the appropriate radio button to 'Allow access to others' data shared on Databrary' in addition to selecting the radio button to 'Grant access to your group/lab data'.
 
 Please let me know if I may be of further assistance.
 
@@ -78,7 +86,7 @@ Subject: Your Databrary Authorization
 
 Dear Dr. [Last Name],
 
-Thank you for registering on Databrary. We've received your request for authorization and need to send your Access Agreement to your university for their approval. If you agree, we would be happy to send your agreement (attached below) on your behalf to make the process simple for you.
+Thank you for registering on Databrary. We've received your request for authorization and need to send your Access Agreement to your university for their approval. If you agree, we would be happy to send your agreement on your behalf to make the process simple for you.
 
 The agreement should get submitted to the sponsored programs or grants & contracts office--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and the university has an IRB that oversees your research activities.
 
