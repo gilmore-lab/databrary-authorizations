@@ -64,6 +64,32 @@ Your supervising professor will need to log in and grant you access by completin
 
 Please let me know if I may be of further assistance.
 
+Best,
+Andrea
+
+## Email to authorized investigator explaining how to grant affiliate access.
+
+Dear Dr. [Last Name],
+
+I am glad you are interested in having your **[postdoctoral fellow, student, staff]** participate in Databrary. Since you have authorization, you may add them as an "affiliate". Affiliate access may be granted by following the directions below.
+
+Affiliate  
+1. Create an account on Databrary by selecting the 'register' link in the upper right corner. Complete only the 'create account' tab on the left side of the screen.   
+2. Go to the profile page of your supervising professor on Databrary.  
+3. Click on the button 'Apply for authorization from [Supervising professor name]' near the bottom of the page.  
+
+Authorized Investigator   
+Your supervising professor will need to log in and grant you access by completing the following:  
+1. Click on the edit button (the little pencil) next to your name  
+2. Choose the affiliates tab  
+3. Select the appropriate radio buttons to 'Allow access to others' data shared on Databrary' in addition to selecting the radio button to 'Grant access to your group/lab data'.  
+4. Save Changes  
+
+Please let me know if I may be of further assistance.
+
+Best,
+Andrea
+
 
 ## Email to someone wanting to know how to request access
 
@@ -92,7 +118,7 @@ The agreement should get submitted to the sponsored programs or grants & contrac
 
 To save researchers time and annoyance, with each new school, I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. At **[Institution Name]** it looks like that person may be **[AUTHORIZING OFFICIAL]**, but maybe you have a better point of contact to start with in that office?
 
-Can I have your permission to reach out to the appropriate official at **[Institution Name]** on your behalf (I will of course keep you in the loop on all correspondence?
+Can I have your permission to reach out to the appropriate official at **[Institution Name]** on your behalf (I will of course keep you in the loop on all correspondence)?
 
 Many thanks,  
 Andrea
@@ -166,6 +192,16 @@ Thank you for sending the signed agreement. However, upon review, it looks like 
 Many thanks,
 Andrea
 
+## Agreement is missing handwritten signature
+
+Dear [Dr./Ms./Mr. OSP Last Name],
+
+Thank you for sending the digitally signed agreement. However, a handwritten signature is required for the AOR. Please, can you resend a fully executed copy with the needed handwritten signature so that we can process Dr. **[PI Name]**'s authorization request?
+
+Many thanks,
+Andrea
+
+
 ## When they list the person that is likely the right person
 
 SUBJ: Your Databary Authorization
@@ -209,7 +245,20 @@ Once we know the best office or official to contact, can I have your permission 
 Many thanks,
 Andrea
 
+## Following up to complete internal paperwork
+
+Subject: Following up on your Databrary authorization request
+
+Dear Dr. [PI Last Name],
+
+I am writing to check in with you regarding the status of your Databrary Authorization request. I believe that [AOR name] needed internal paperwork completed prior to signing this agreement. Have you had the opportunity to complete the required items? We would like to get you authorized so you may access Databrary's shared resources and data. Please let me know if I can provide any assistance.
+
+Many thanks,
+Andrea
+
 ## Following up to determine AOR
+
+Subject: Following up on your Databrary authorization request
 
 Dear Dr. [PI LAST NAME],
 
@@ -218,6 +267,15 @@ Have you had the opportunity to determine the Authorizing Official for your inst
 As a reminder the agreement should get submitted to the office that handles research administration or research agreements--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and they confirm that the university has ethical oversight of your research activities.
 
 Many thanks,
+Andrea
+
+## Difficulty getting authorization from instiution
+
+Dear Dr. [Last Name],
+
+I understand that you are having difficulty getting Databrary authorization from your institution. We’d love to help you to get authorized for Databrary access. Can I follow up with [OSP name/Authorized Organizational Representative] on your behalf (of course, I will cc you on all correspondence with your institution).
+
+Best wishes,
 Andrea
 
 
@@ -250,8 +308,6 @@ Researcher Email:
 
 Dear Dr. [RESEARCHER LAST NAME],
 
-I hope all is well with you.
-
 I’m writing as the Director of the Databrary project (databrary.org). A while ago, you registered to become an authorized researcher on Databrary, a web-based library for sharing and reusing developmental research videos. We sent you an email to follow up on your registration, but we did not hear back from you. I'm writing again to ask whether we can help you to become an authorized researcher. As such, you would have access to all the shared videos and excerpts in the library. In the past few months, we've added new search and data management features to make storing and reusing videos even easier.
 
 We want to make this process as easy for you as possible and with your permission, we’re happy to submit your agreement on your behalf.
@@ -261,9 +317,8 @@ Please let me know whether you will allow us to help you with the process by con
 Many thanks,
 Karen Adolph
 
-## From Databrary for PIs who don't respond
+## From Databrary for PIs who haven't responded for > 2 weeks
 
-## PLEASE SEND- [PI name] that wanted to submit agreement themselves without response > 2 weeks
 Email: Karen
 Copy: authorize@databrary.org
 
@@ -282,7 +337,7 @@ Please let me know whether you will allow us to help you with the process by con
 Many thanks,
 Karen Adolph
 
-## From Databrary & Karen for People that haven't gotten authorized after ages
+## From Karen for People that haven't gotten authorized after ages
 Email: Karen
 Copy: authorize@databrary.org
 
@@ -482,9 +537,11 @@ Andrea
 
 # FOLLOW UP FROM MONTHS OF NO RESPONSE OF SUBMITTED AGREEMENT
 
+Subject: Following up on your Databrary authorization
+
 Dear Dr. [PI Last Name],
 
-It’s been a couple months since we’ve heard from your school's SRO about your submitted authorization request for Databrary access. Were there any issues or questions that they raised that we could help with?
+It’s been a couple months since we’ve heard from your school's Authorized Organizational Representative about your submitted authorization request for Databrary access. Were there any issues or questions that they raised that we could help with?
 
 We’d love to help you get authorized for Databrary access. Would you like us to follow up with your SRO again? If we still don’t hear anything, a nudge from you might help get your authorization back on their radar. Please let me know if there is anything we can do to help.
 

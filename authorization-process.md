@@ -125,11 +125,13 @@ Who to email: Information in institution openproject ticket- grants and contract
 
 2. Check the document "Revision requests" (server/authorizations/revisions/revision requests) to cross check the requests to see if there is documentation of how to handle it already. If Eric Rasmussen (eric.rasmussen@nyu.edu) has previously approved the revision request, you can tell the OSP that we can accept the revision.
 
-2. If it is a new revision request, Tell OSP that requests are not common and that we will have to consult general counsel to see if we can accept the request. Sample email for this language can be found server/auth/template emails.templates-osp/"First email response to revision request." Forward the chain to Eric and ask how to proceed.
+2. If it is a new revision request, Tell OSP that requests are not common and that we will have to consult general counsel to see if we can accept the request. Sample email for this language can be found server/auth/template emails.templates-osp/"First email response to revision request." 
 
-3. Portray to the OSP why NYU's general counsel will or will not accept the revisions. Do NOT CC Eric on the response back to the instutition.
+3. Forward the chain to Joy. She will work with Eric at NYU's general council to determine the response to the request. 
 
-4. Go back and forth (and keep the PI out of it and not CC'd) until a final version is created.
+	- Portray to the OSP why NYU's general counsel will or will not accept the revisions. Do NOT CC Eric on the response back to the instutition.
+
+	- Go back and forth (and keep the PI out of it and not CC'd) until a final version is created.
 
 5. On the institution ticket in Open Project, select that there is an amendment so all other PI's will have amendments to their agreement when you submit new ones.
 
@@ -150,7 +152,7 @@ Who to email: Information in institution openproject ticket- grants and contract
 
 * Include in email
 	+ Subject: Received signed Databrary Agreement
-	+ CC: researcher, Karen, authorize@databrary.org, approving authority email if they sent agreement
+	+ CC: researcher, authorize@databrary.org, approving authority email if they sent agreement
 
 #### Create institution on Databrary if it doesn't already exist on Databrary
 * make sure you are logged out of the databrary.org website
