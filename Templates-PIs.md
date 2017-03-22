@@ -133,7 +133,7 @@ Thank you for registering on Databrary. We've received your request for authoriz
 
 To save researchers time and annoyance, with each new school I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. At **[Institution Name]** we can see that there is a **[dean of research office]**. Is that the office that helps you submit grant proposals or can sign research agreements? Perhaps you have a contact in that office that we can reach out to?
 
-Can I have your permission to reach out to the appropriate official at **[Institution Name]** on your behalf (I will of course keep you in the loop on all correspondence)?
+Once we know the best office or official to contact, can I have your permission to reach out to the appropriate official at **[Institution Name]** on your behalf (I will of course keep you in the loop on all correspondence)?
 
 Many thanks,
 Andrea
@@ -164,7 +164,7 @@ Thank you for registering on Databrary. We've received your request for authoriz
 
 To save researchers time and annoyance, with each new school I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. The individual who can sign the agreement is typically someone at the university level who has the authority to sign legally binding agreements on behalf of the university. We typically work with Offices of Sponsored Research and Grants and Contracts Offices. Do you know what office or individual might be able to sign your agreement?
 
-Can I have your permission to reach out to the appropriate official at **[Institution Name]** on your behalf (I will of course keep you in the loop on all correspondence)?
+Once we know the best office or official to contact, can I have your permission to reach out to the appropriate official at **[Institution Name]** on your behalf (I will of course keep you in the loop on all correspondence)?
 
 Many thanks,
 Andrea
