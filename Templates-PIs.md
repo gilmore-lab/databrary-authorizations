@@ -509,7 +509,7 @@ Lisa
 
 
 
-#CONGRATS ON YOUR AUTHORIZATION
+# CONGRATS ON YOUR AUTHORIZATION
 
 Subject: Received Signed Databrary Agreement
 
@@ -517,7 +517,7 @@ Dear [Dr. Name],
 
 Thank you for sending the signed agreement. We are excited that you are now a part of the authorized Databrary community. We will change your authorization on our site soon and you will receive an email notification as soon as we do. Please feel free to ask me any questions that you have about Databrary and its resources.
 
-Best,
+Best,  
 Andrea
 
 # Forgotten Username/Password
