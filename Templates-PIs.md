@@ -360,7 +360,7 @@ SEND WHETHER KEA KNOWS THEM OR NOT
 Subject: Please review and send: Following up on your authorization request
 Copy: authorize@databrary.org
 
-Dear [RESEARCHER],
+Dear Dr. [RESEARCHER],
 
 My name is Karen Adolph and I am the director of Databrary. I'm writing to inform you that we have received your signed agreement from your university and can now authorize you on Databrary. We strive to make data sharing and reuse accessible to all researchers and I apologize for the long delay in your authorization.
 
@@ -439,6 +439,8 @@ Lisa
 
 # Concerns about getting authorized
 
+cc/Karen Adolph, Rick Gilmore, Ahmad Arshad
+
 Dear [PI Name],
 
 Thank you for letting us know your plans and your concerns about getting authorized through [Institution]. Your comments are really useful for helping us to communicate more effectively with researchers.
@@ -453,7 +455,7 @@ Please let us know if we can be of further assistance to you.
 
 Best wishes,
 Andrea
-cc/Karen Adolph, Rick Gilmore, Ahmad Arshad
+
 
 # IRB APPROVAL NOT NECESSARY
 
@@ -513,7 +515,7 @@ Lisa
 
 Subject: Received Signed Databrary Agreement
 
-Dear [Dr. Name],
+Dear Dr. [Last Name],
 
 Thank you for sending the signed agreement. We are excited that you are now a part of the authorized Databrary community. We will change your authorization on our site soon and you will receive an email notification as soon as we do. Please feel free to ask me any questions that you have about Databrary and its resources.
 
