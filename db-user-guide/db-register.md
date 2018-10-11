@@ -2,23 +2,23 @@
 
 To start the authorization process on Databrary, please fill out this [form](https://nyu.databrary.org/user/register?page=create) or click "register" on the top right of the menu bar on databrary.org.  
 
-  ![Databrary Home](imgs/db-main-page.PNG)
+  ![Databrary Home][imgs/db-main-page.png]
   
 Fill out the Create Account form with your full name, valid institutional email address, and the name of your research institution.
 
-  ![Create Account](imgs/xxxx)  
+  ![Create Account][imgs/db-create-account.png]  
   
 Read the access agreement and agree to the access terms.  
 
-  ![Sign Agreement](imgs/xxxx)  
+  ![Sign Agreement][imgs/db-sign-agreement.png]  
   
 Go to your email box, locate the auto-generated email from Databrary, and confirm your email. If you don't receive the email within a few minutes, check your spam folder.  
 
-  ![Account Created Email](imgs/xxxx)  
+  ![Account Created Email][imgs/db-registration-email.png]  
   
 Choose a password.  
 
-  ![Password](imgs/xxxx)    
+  ![Password][imgs/db-set-password.png]   
   
 Decide if you are entitled to Authorized Investigator status, or are requesting affiliate status from your PI (See info section, below, for more information on who qualifies as an Authorized Investigator.)
 
