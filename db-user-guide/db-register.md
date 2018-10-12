@@ -2,7 +2,7 @@
 
 To start the authorization process on Databrary, please fill out this [form](https://nyu.databrary.org/user/register?page=create) or click "register" on the top right of the menu bar on databrary.org.  
 
-  ![Databrary Home](imgs/db-main-page.PNG ="400px")
+  ![Databrary Home](imgs/db-main-page.PNG =400x700)
   
 Fill out the Create Account form with your full name, valid institutional email address, and the name of your research institution.
 
