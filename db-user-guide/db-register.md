@@ -8,34 +8,55 @@ To start the authorization process on Databrary, please fill out this [form](htt
   
 Fill out the Create Account form with your full name, valid institutional email address, and the name of your research institution.
 
-  ![Create Account](imgs/db-create-account.png) 
+<p align="center">
+<img src="imgs/db-create-account.png" alt="Create Account" width="80%"/>
+</p>
+ 
   
-Read the access agreement and agree to the access terms.  
+Read the access agreement and agree to the access terms. 
 
-  ![Sign Agreement](imgs/db-sign-agreement.png)
-  
+<p align="center">
+<img src="imgs/db-sign-agreement.png" alt="Sign Agreement" width="80%"/>
+</p>
+
 Go to your email box, locate the auto-generated email from Databrary, and confirm your email. If you don't receive the email within a few minutes, check your spam folder.  
 
-  ![Account Created Email](imgs/db-registration-email.png) 
-  
+<p align="center">
+<img src="imgs/db-registration-email.png" alt="Account Created Email" width="80%"/>
+</p>
+
 Choose a password.  
 
-  ![Set Password](imgs/db-set-password.png)   
-  
+<p align="center">
+<img src="imgs/db-set-password.png" alt="Set Password" width="80%"/>
+</p>
+
+
 Decide if you are entitled to Authorized Investigator status, or are requesting affiliate status from your PI (See info section, below, for more information on who qualifies as an Authorized Investigator.)
 
-
+<p align="center">
+<img src="imgs/xxxx.png" alt="Request Authorization" width="80%"/>
+</p>
 
 To register as an Authorized Investigator:
 
-Select the Authorized Investigator radio button and search for your institution.
-This will auto-generate a notification to the Databrary team with a Databrary Access Agreement, which needs to be signed both by you and your contracts office.
-Databrary's authorization team will be in touch within 24-48 hours to help you through the process.
-There is more general information about becoming an Authorized Investigator on Databrary here and here.
+1. Select the Authorized Investigator radio button and search for your institution.
+2. This will auto-generate a notification to the Databrary team with a Databrary Access Agreement, which needs to be signed both by you and your contracts office.
+3. Databrary's authorization team will be in touch within 24-48 hours to help you through the process.
+4. There is more general information about becoming an Authorized Investigator on Databrary [here](https://www.databrary.org/access/responsibilities/investigators.html) and [here](https://www.databrary.org/access/guide/investigators/authorization.html).
 
 To register as an Affiliate:
 
-Select the Affiliate radio button and search for your sponsoring PI's name. (Note: If your PI does not yet have an account on Databrary, he or she will have to follow the instructions above to become an Authorized Investigator.)
-Your PI will receive a notification that you have applied for access, and can approve you. Alternately, your PI can go to their profile, and add you as an affiliate manually.
+1. Select the Affiliate radio button and search for your sponsoring PI's name. (Note: If your PI does not yet have an account on Databrary, he or she will have to follow the instructions above to become an Authorized Investigator.)
+2. Your PI will receive a notification that you have applied for access, and can approve you. Alternately, your PI can go to their profile, and add you as an affiliate manually.
 
-  
+
+
+Should I register as an Authorized Investigator or an affiliate?
+
+To be an Authorized Investigator on Databrary you must have:
+
+1. PI status or be eligible to conduct independent research at your institution;
+2. All current research ethics training required by your institution; and
+3. An ethics or institutional review board that reviews and approves research involving human subjects.
+If you are a post-doc, a doctoral student, or a lab staff member, you will need to request access from your supervisor or PI as an affiliate. Your supervisor or PI must register as an Authorized Investigator, if they have not already done so.  
