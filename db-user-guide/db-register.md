@@ -52,11 +52,12 @@ To register as an Affiliate:
 
 
 
-Should I register as an Authorized Investigator or an affiliate?
+**Should I register as an Authorized Investigator or an affiliate?**
 
 To be an Authorized Investigator on Databrary you must have:
 
 1. PI status or be eligible to conduct independent research at your institution;
 2. All current research ethics training required by your institution; and
-3. An ethics or institutional review board that reviews and approves research involving human subjects.
+3. An ethics or institutional review board that reviews and approves research involving human subjects.  
+
 If you are a post-doc, a doctoral student, or a lab staff member, you will need to request access from your supervisor or PI as an affiliate. Your supervisor or PI must register as an Authorized Investigator, if they have not already done so.  
