@@ -8,7 +8,7 @@ I write on behalf of Dr. **[FULL NAME]** who has requested access to Databrary, 
 
 You can find more information about Databrary on our website (databrary.org). We also have a document addressing the most commonly asked questions by institutions: http://databrary.org/access/guide/institutions.html. The other institutions that have approved and signed the agreement are also listed on our website: http://databrary.org/community/institutions.html.
 
-Attached is the e-signed agreement for your review. Please complete and sign pages 1 and 4 as well as initialing after each section in Annex I on pages 2 and 3.
+Please read the attached agreement for Dr. **[FULL NAME]** and, if you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please have Dr. **[LAST NAME]** provide their signature on page 1 and initials on page 3. Please complete and provide a signature on page 1 and as well as providing initials after each section in Annex I on pages 2 and 3
 
 If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please let me know if you have any questions or need any further information.
 
