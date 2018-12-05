@@ -32,13 +32,13 @@ Subject: Regarding your Databrary account
 
 Dear Dr. [LAST NAME],
 
-Thank you for creating​ an account on Databrary and agreeing to abide by the Databrary Access Agreement.
+Thank you for creating an account on Databrary and agreeing to abide by the Databrary Access Agreement.
 
-"Authorized investigator” status requires that the researcher be a professor (or similar) at a college or university. If you meet these requirement​s​, please complete the registration​ process (https://nyu.databrary.org/user/register?page=create) by ​requesting ​authorization. Alternatively, researchers who work under the supervision of a professor (students, postdocs, staff) can be authorized as an “affiliate” by an authorized professor at their university.
+"Authorized investigator” status requires that the researcher be a professor (or similar) at a college or university. If you meet these requirements, please complete the registration process (https://nyu.databrary.org/user/register?page=create) by requesting authorization. Alternatively, researchers who work under the supervision of a professor (students, postdocs, staff) can be authorized as an “affiliate” by an authorized professor at their university.
 
 Please let me know if you have further questions regarding the authorization process.
 
-Many thanks,
+Many thanks,   
 Andrea
 
 ## Email to someone wanting to know how to gain affiliate access
@@ -47,7 +47,7 @@ Subject: Databrary access
 
 Dear Ms./Mr./Dr. [Last Name],
 
-I am glad you are interested in utilizing Databrary. Since you are a **[postdoctoral fellow, student, staff]**, your PI will need to complete the registration​ process (https://nyu.databrary.org/user/register?page=create) by creating an account and ​requesting ​authorization. After your PI has been granted authorization, they may add you as an "affiliate". Affiliate access may be granted by following the directions below.
+I am glad you are interested in utilizing Databrary. Since you are a **[postdoctoral fellow, student, staff]**, your PI will need to complete the registration process (https://nyu.databrary.org/user/register?page=create) by creating an account and requesting authorization. After your PI has been granted authorization, they may add you as an "affiliate". Affiliate access may be granted by following the directions below.
 
 Affiliate  
 1. Create an account on Databrary by selecting the 'register' link in the upper right corner. Complete only the 'create account' tab on the left side of the screen.   
@@ -515,7 +515,21 @@ Lisa
 
 Subject: Received Signed Databrary Agreement
 
-Dear Dr. [Last Name],
+Dear Dr. [OSP Last Name],
+
+Thank you for sending the signed agreement.
+
+Dear Dr. [PI Last Name],
+
+We are excited that you are now a part of the authorized Databrary community. We will change your authorization on our site soon and you will receive an email notification as soon as we do. Please feel free to ask me any questions that you have about Databrary and its resources.
+
+Best, 
+Andrea  
+
+
+Subject: Received Signed Databrary Agreement
+
+Dear Dr. [PI Last Name],
 
 Thank you for sending the signed agreement. We are excited that you are now a part of the authorized Databrary community. We will change your authorization on our site soon and you will receive an email notification as soon as we do. Please feel free to ask me any questions that you have about Databrary and its resources.
 
