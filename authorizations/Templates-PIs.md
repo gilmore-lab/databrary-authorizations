@@ -62,9 +62,9 @@ Your supervising professor will need to log in and grant you access by completin
 4. Save Changes  
 
 
-Please let me know if I may be of further assistance.
+Please let me know if I may be of further assistance.  
 
-Best,
+Best,  
 Andrea
 
 ## Email to authorized investigator explaining how to grant affiliate access.
@@ -87,7 +87,7 @@ Your supervising professor will need to log in and grant you access by completin
 
 Please let me know if I may be of further assistance.
 
-Best,
+Best,  
 Andrea
 
 
