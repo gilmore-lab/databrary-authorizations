@@ -27,7 +27,9 @@ As a reminder, access to Databrary is granted only to authorized individuals. To
 
 You can find more information about Databrary on our website (databrary.org). We also have a document addressing the most commonly asked questions by institutions: http://databrary.org/access/guide/institutions.html. The other institutions that have approved and signed the agreement are also listed on our website: http://databrary.org/community/institutions.html.
 
-Attached is the e-signed agreement for your review. Since you have previously completed an agreement with Databrary, please complete and sign Annex II (page 4) to add additional authorized investigators.
+Attached is the agreement for your review. Since you have previously completed an agreement with Databrary, please complete and sign (wet or Adobe certified digital) Annex II (DAA Annex II) to add additional authorized investigators. Dr. Malti will also need to provide their handwritten signature on Annex II. 
+
+All signatures and initials are required to be wet ink or Adobe certified digital. Scanned copies of wet ink signatures are preferred.
 
 If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please let me know if you have any questions or need any further information.
 
@@ -52,37 +54,41 @@ Many thanks,
 Andrea
 
 # PSU
+**Always send full agreement**  
 
-mdr5@psu.edu- Melissa Surovec
+Email: datarequest@psu.edu, kad195@psu.edu
 
-Subject: Databrary Access Agreement for Dr. *Ginger Moore*
 
-Dear Melissa,
+Subject: Databrary Access Agreement for Dr. [FULL NAME]
 
-<AUTHORIZED INVESTIGATOR> has registered on Databrary.org and is seeking authorization through Penn State University. Attached is the e-signed agreement.
+Dear Ms. McNitt,
 
-<AUTHORIZED INVESTIGATOR>, I believe you will need to sign the agreement and return it to Melissa's office.
+I write on behalf of Dr. **[FULL NAME]** who has requested access to Databrary, a web-based library for video data in developmental science. Access to Databrary is granted only to authorized individuals. To become authorized, (1) the investigator must read and understand the Databrary Access Agreement and, (2) an authorized organizational representative of the university or institution must co-sign his or her agreement. By signing, the institution verifies that the individual is eligible to conduct independent research at that institution and maintains an ethics board that oversees research activities. IRB approval is not required for authorization to access the library.
 
-Many thanks for your help with this process.
+You can find more information about Databrary on our website (databrary.org). We also have a document addressing the most commonly asked questions by institutions: http://databrary.org/access/guide/institutions.html. The other institutions that have approved and signed the agreement are also listed on our website: http://databrary.org/community/institutions.html.
 
-All best,
-Lisa
+Please read the attached agreement for Dr. **[FULL NAME]** and, if you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please have Dr. **[LAST NAME]** provide their signature on page 1 and initials on page 3. Please complete and provide a signature on page 1 and as well as providing initials after each section in Annex I on pages 2 and 3
+
+If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please let me know if you have any questions or need any further information.
+
+Many thanks,  
+Andrea
 
 # UMD
 
 Dear Mr. Falasca,
 
-I'm writing on behalf of Dr. ​Nan Ratner​ who is seeking authorization to Databrary through the University of Maryland. If you’d like, you can complete Annex II to add her to the list of UMD authorized PIs. I’ve attached the fully executed agreement with the agreed upon language for reference.
+I'm writing on behalf of Dr. **[FULL NAME]** who is seeking authorization to Databrary through the University of Maryland. If you’d like, you can complete Annex II to add him to the list of UMD authorized PIs. I’ve attached the fully executed agreement with the agreed upon language for reference. Please have Dr. **[LAST NAME]** provide their handwritten signature.
 
 Thank you very much for your help.
 
 Best,
-Vicky
+Andrea
 
 
 *ATTACH THE AGREEMENT WITH HIS NAME ON IT*
 
-* OPEN PROJECT: CHANGE TO SUBMITTED
+
 
 # FIRST EMAIL RESPONSE TO REVISION REQUEST
 
@@ -105,7 +111,7 @@ Subject: Following up on Dr. [FULL NAME]'s Databrary Access Agreement
 
 Dear [AUTHORIZING OFFICIAL],
 
-​Can you offer any update​s ​regarding Dr. **[RESEARCHER FULL NAME]**’s authorization request for Databrary access through **[INSTITUTION]**? We would like to get Dr. **[RESEARCHER LAST NAME]** authorized as soon as possible so **[she/he]** may access Databrary's shared resources and data. Please let me know if I can provide any assistance or if there is another person whom I should work with on this agreement.
+Can you offer any updates regarding Dr. **[RESEARCHER FULL NAME]**’s authorization request for Databrary access through **[INSTITUTION]**? We would like to get Dr. **[RESEARCHER LAST NAME]** authorized as soon as possible so **[she/he]** may access Databrary's shared resources and data. Please let me know if I can provide any assistance or if there is another person whom I should work with on this agreement.
 
 Best regards,  
 Andrea
