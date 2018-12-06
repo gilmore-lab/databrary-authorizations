@@ -8,7 +8,9 @@ I write on behalf of Dr. **[FULL NAME]** who has requested access to Databrary, 
 
 You can find more information about Databrary on our website (databrary.org). We also have a document addressing the most commonly asked questions by institutions: http://databrary.org/access/guide/institutions.html. The other institutions that have approved and signed the agreement are also listed on our website: http://databrary.org/community/institutions.html.
 
-Please read the attached agreement for Dr. **[FULL NAME]** and, if you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please have Dr. **[LAST NAME]** provide their signature on page 1 and initials on page 3. Please complete and provide a signature on page 1 and as well as providing initials after each section in Annex I on pages 2 and 3
+Attached is the agreement for your review. Please have Dr. **[LAST NAME]** provide their signature on page 1 and initials on page 3. Please complete and provide a signature on page 1 and as well as providing initials after each section in Annex I on pages 2 and 3.
+
+All signatures and initials are required to be wet ink or Adobe certified digital. Scanned copies of wet ink signatures are preferred.
 
 If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please let me know if you have any questions or need any further information.
 
@@ -27,7 +29,7 @@ As a reminder, access to Databrary is granted only to authorized individuals. To
 
 You can find more information about Databrary on our website (databrary.org). We also have a document addressing the most commonly asked questions by institutions: http://databrary.org/access/guide/institutions.html. The other institutions that have approved and signed the agreement are also listed on our website: http://databrary.org/community/institutions.html.
 
-Attached is the agreement for your review. Since you have previously completed an agreement with Databrary, please complete and sign (wet or Adobe certified digital) Annex II (DAA Annex II) to add additional authorized investigators. Dr. Malti will also need to provide their handwritten signature on Annex II. 
+Attached is the agreement for your review. Since you have previously completed an agreement with Databrary, please complete and sign (wet or Adobe certified digital) Annex II (DAA Annex II) to add additional authorized investigators. Dr. **[LAST NAME]** will also need to provide their handwritten signature on Annex II. 
 
 All signatures and initials are required to be wet ink or Adobe certified digital. Scanned copies of wet ink signatures are preferred.
 
