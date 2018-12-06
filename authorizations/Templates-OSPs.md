@@ -38,6 +38,29 @@ If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME
 Many thanks,   
 Andrea
 
+# Previously approved institution - Sign September 2017 agreement
+
+Subject: Databrary Access Agreement for Dr. [FULL NAME]
+
+Dear [Dr./Ms./Mr. OSP Name],
+
+I write on behalf of Dr. **[FULL NAME]** who has requested access to Databrary, a web-based library for video data in developmental science. Your institution has previously completed an agreement with Databrary.
+
+As a reminder, access to Databrary is granted only to authorized individuals. To become authorized, (1) the investigator must read and understand the Databrary Access Agreement and, (2) an authorized organizational representative of the university or institution must co-sign his or her agreement. By signing, the institution verifies that the individual is eligible to conduct independent research at that institution and maintains an ethics board that oversees research activities. IRB approval is not required for authorization to access the library.
+
+You can find more information about Databrary on our website (databrary.org). We also have a document addressing the most commonly asked questions by institutions: http://databrary.org/access/guide/institutions.html. The other institutions that have approved and signed the agreement are also listed on our website: http://databrary.org/community/institutions.html.
+
+Your institution has previously executed a Databrary Access Agreement (DAA) for one or more researchers at your institution to join the Databrary (databrary.org) community. Please be advised that we have slightly modified the Databrary Access Agreement, to accommodate international institutions with external ethics review processes, to note the necessity of proper training in human subjects research ethics, and to fix minor typos and spacing issues. In addition, Annex II was removed to a separate document on Databrary letterhead. A complete list of changes is available upon request. 
+
+Attached is the agreement for your review. If you approve, kindly return the signed copy to me to complete Dr. **[Last Name]**'s authorization. Please have Dr. **[Last Name]** provide their signature on page 1 and initials on page 3. Please complete and provide a signature on page 1 and as well as providing initials after each section in Annex I on pages 2 and 3. 
+
+All signatures and initials are required to be wet ink or Adobe certified digital. Scanned copies of wet ink signatures are preferred.
+
+Please let me know if you have any questions or need any further information.
+
+Many thanks, 
+Andrea
+
 # NYU
 
 osp.agency@nyu.edu (contract email no longer accepting emails)
