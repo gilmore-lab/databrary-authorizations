@@ -82,9 +82,8 @@ I'm writing on behalf of Dr. **[FULL NAME]** who is seeking authorization to Dat
 
 Thank you very much for your help.
 
-Best,
+Best,  
 Andrea
-
 
 *ATTACH THE AGREEMENT WITH HIS NAME ON IT*
 
