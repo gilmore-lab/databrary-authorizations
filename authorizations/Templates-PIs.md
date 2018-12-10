@@ -104,6 +104,19 @@ Please let me know if I may be of further assistance.
 Many thanks,
 Andrea
 
+# Email to For Profit Company  
+
+Dear Dr. [Last Name],
+
+Thank you for registering on Databrary. 
+
+"Authorized investigator” status requires that you be a professor (or similar) at a non-profit college or university; your institution executes the Databrary Access Agreement on your behalf. We also require that your research is conducted under the supervision of an Institutional Review Board, or similar human subjects research ethics board. Finally, data on Databrary is provided for non-commercial use only and is subject to the terms of use outlined in the Databrary Access Agreement.
+
+Since[Company Name] is a for profit institution, you do not meet the requirements to become a member of Databrary. 
+
+Kind regards,
+Andrea  
+
 # EMAIL TO PI REQUESTING APPROVAL TO SUBMIT THEIR AUTHORIZATION
 
 ## When official is not known to PI
