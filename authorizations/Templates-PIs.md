@@ -106,6 +106,8 @@ Andrea
 
 # Email to For Profit Company  
 
+Subject: Regarding your Databrary authorization request  
+
 Dear Dr. [Last Name],
 
 Thank you for registering on Databrary. 
