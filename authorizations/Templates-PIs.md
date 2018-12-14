@@ -564,8 +564,8 @@ Dear Dr. [PI Last Name],
 
 We are excited that you are now a part of the authorized Databrary community. We will change your authorization on our site soon and you will receive an email notification as soon as we do. Please feel free to ask me any questions that you have about Databrary and its resources.
 
-Best, 
-Andrea  
+Best,  
+Andrea
 
 
 Subject: Received Signed Databrary Agreement
