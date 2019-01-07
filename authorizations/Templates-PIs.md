@@ -34,7 +34,7 @@ Dear Dr. [LAST NAME],
 
 Thank you for creating an account on Databrary and agreeing to abide by the Databrary Access Agreement.
 
-"Authorized investigator” status requires that the researcher be a professor (or similar) at a college or university. If you meet these requirements, please complete the registration process (https://nyu.databrary.org/user/register?page=create) by requesting authorization. Alternatively, researchers who work under the supervision of a professor (students, postdocs, staff) can be authorized as an “affiliate” by an authorized professor at their university.
+"Authorized investigator” status requires that the researcher be a professor (or similar) at a college or university. If you meet these requirements, please complete the registration process (https://nyu.databrary.org/user/register?page=create) by requesting authorization. This requires that the first 6 tabs on the left hand side of the page be completed. These steps have you enter the  information to initiate the authorization process. Alternatively, researchers who work under the supervision of a professor (students, postdocs, staff) can be authorized as an “affiliate” by an authorized professor at their university.
 
 Please let me know if you have further questions regarding the authorization process.
 
