@@ -286,6 +286,23 @@ Once we know the best office or official to contact, can I have your permission 
 Many thanks,
 Andrea
 
+## Clarify responsibilities of signatory (e.g. Italy) or anyone who wants someone else (e.g. Department Head) to sign 
+### EU
+Dear Dr. [PI Last Name],  
+
+Through the Databrary Access Agreement, your institution takes legal responsibility for your proper conduct with the research data contained on Databrary. This is one of the primary steps we take to protect the participants who have given permission to share their data with other researchers. Thus, we require someone with the legal authority to sign for your institution. If your Head of Department is willing - and permitted - to take legal responsibility for your conduct, then they are an acceptable executor. If the Head of Department is not legally permitted, then the Rector, Chancellor or Dean of Faculty might be more appropriate depending upon your institutional structure.
+
+Many thanks,
+Andrea
+
+### US 
+Dear Dr. [PI Last Name],  
+
+Through the Databrary Access Agreement, your institution takes legal responsibility for your proper conduct with the research data contained on Databrary. This is one of the primary steps we take to protect the participants who have given permission to share their data with other researchers. Thus, we require someone with the legal authority to sign for your institution. If your Head of Department is willing - and permitted - to take legal responsibility for your conduct, then they are an acceptable executor. If the Head of Department is not legally permitted, then the Sponsored Projects Office, Grants and Contracts Office, Vice President for Research or General Council might be more appropriate depending upon your institutional structure.  
+
+Many thanks,
+Andrea
+
 ## Following up to complete internal paperwork
 
 Subject: Following up on your Databrary authorization request
