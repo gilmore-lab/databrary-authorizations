@@ -34,7 +34,7 @@ Dear Dr. [LAST NAME],
 
 Thank you for creating an account on Databrary and agreeing to abide by the Databrary Access Agreement.
 
-"Authorized investigator” status requires that the researcher be a professor (or similar) at a college or university. If you meet these requirements, please complete the registration process (https://nyu.databrary.org/user/register?page=create) by requesting authorization. Alternatively, researchers who work under the supervision of a professor (students, postdocs, staff) can be authorized as an “affiliate” by an authorized professor at their university.
+"Authorized investigator” status requires that the researcher be a professor (or similar) at a college or university. If you meet these requirements, please complete the registration process (https://nyu.databrary.org/user/register?page=create) by requesting authorization. This requires that the first 6 tabs on the left hand side of the page be completed. These steps have you enter the  information to initiate the authorization process. Alternatively, researchers who work under the supervision of a professor (students, postdocs, staff) can be authorized as an “affiliate” by an authorized professor at their university.
 
 Please let me know if you have further questions regarding the authorization process.
 
@@ -282,6 +282,23 @@ Thank you for updating your institution affiliation. However it is necessary to 
 To save researchers time and annoyance, with each new school I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. At **[NEW UNIVERSITY]** it looks like it may be **[OSP office]**, but maybe you have a better point of contact to start with in that office?
 
 Once we know the best office or official to contact, can I have your permission to reach out to the appropriate official at **[New University]** on your behalf (I will of course keep you in the loop on all correspondence)?
+
+Many thanks,
+Andrea
+
+## Clarify responsibilities of signatory (e.g. Italy) or anyone who wants someone else (e.g. Department Head) to sign 
+### EU
+Dear Dr. [PI Last Name],  
+
+Through the Databrary Access Agreement, your institution takes legal responsibility for your proper conduct with the research data contained on Databrary. This is one of the primary steps we take to protect the participants who have given permission to share their data with other researchers. Thus, we require someone with the legal authority to sign for your institution. If your Head of Department is willing - and permitted - to take legal responsibility for your conduct, then they are an acceptable executor. If the Head of Department is not legally permitted, then the Rector, Chancellor or Dean of Faculty might be more appropriate depending upon your institutional structure.
+
+Many thanks,
+Andrea
+
+### US 
+Dear Dr. [PI Last Name],  
+
+Through the Databrary Access Agreement, your institution takes legal responsibility for your proper conduct with the research data contained on Databrary. This is one of the primary steps we take to protect the participants who have given permission to share their data with other researchers. Thus, we require someone with the legal authority to sign for your institution. If your Head of Department is willing - and permitted - to take legal responsibility for your conduct, then they are an acceptable executor. If the Head of Department is not legally permitted, then the Sponsored Projects Office, Grants and Contracts Office, Vice President for Research or General Council might be more appropriate depending upon your institutional structure.  
 
 Many thanks,
 Andrea
@@ -564,8 +581,8 @@ Dear Dr. [PI Last Name],
 
 We are excited that you are now a part of the authorized Databrary community. We will change your authorization on our site soon and you will receive an email notification as soon as we do. Please feel free to ask me any questions that you have about Databrary and its resources.
 
-Best, 
-Andrea  
+Best,  
+Andrea
 
 
 Subject: Received Signed Databrary Agreement

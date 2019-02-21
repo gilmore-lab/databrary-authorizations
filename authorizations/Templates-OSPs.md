@@ -61,6 +61,25 @@ Please let me know if you have any questions or need any further information.
 Many thanks, 
 Andrea
 
+# PI Submit themselves  
+
+Dear Dr. **[Last Name]**,
+
+I have included some more information which may help you, determine the correct Institutional Signatory for this agreement and some instructions on filling out the agreement. 
+
+Access to Databrary is granted only to authorized individuals. To become authorized, (1) the investigator must read and understand the Databrary Access Agreement and, (2) an authorized organizational representative of the university or institution must co-sign his or her agreement. By signing, the institution verifies that the individual is eligible to conduct independent research at that institution and maintains an ethics board that oversees research activities. IRB approval is not required for authorization to access the library.
+
+You can find more information about Databrary on our website (databrary.org). We also have a document addressing the most commonly asked questions by institutions: http://databrary.org/access/guide/institutions.html. The other institutions that have approved and signed the agreement are also listed on our website: http://databrary.org/community/institutions.html.
+
+Attached is the agreement for your Institutional Signatory to review. You will need to provide your signature on page 1 and initials on page 3. Please have your Institutional Signatory complete and provide a signature on page 1 and as well as providing initials after each section in Annex I on pages 2 and 3.
+
+All signatures and initials are required to be wet ink or Adobe certified digital. Scanned copies of wet ink signatures are preferred.
+
+Please let me know if you have any questions or need any further information.
+
+Many thanks, 
+Andrea
+
 # NYU
 
 osp.agency@nyu.edu (contract email no longer accepting emails)
