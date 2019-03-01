@@ -11,7 +11,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Templates OSP
+# AOR Email Templates
 
 ## New AI Requests
 
@@ -269,4 +269,199 @@ If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME
 Many thanks, 
 Andrea
 
-# Templates PI
+# PI Email Templates
+
+## Emails to PI when unsure of status
+
+### When PI is not found on their university website
+
+Subject: Regarding your Databrary authorization request
+
+Dear Dr. [Last Name],
+
+Thank you for registering on Databrary. "Authorized investigator” status requires that the researcher be a professor (or similar) at a college or university. Alternatively, researchers who work under the supervision of a professor (students, postdocs, staff) can be authorized as an “affiliate” by an authorized professor at their university. I am unable to locate your profile online to determine whether you are eligible for investigator status. Please, can you send me the link to your profile page on your university’s website? Or if you will need to become authorized as an affiliate, please ask your supervising professor to apply for authorization.
+
+Kind regards,  
+Andrea
+
+### When PI appears to be student or staff
+
+Subject: Regarding your Databrary authorization request
+
+Dear [Mr./Ms. Last Name],
+
+Thank you for registering on Databrary. "Authorized investigator” status requires that the researcher be a professor (or similar) at a college or university. Alternatively, researchers who work under the supervision of a professor (students, postdocs, staff) can be authorized as an “affiliate” by an authorized professor at their university. According to my online search for your profile, you are a student at **[Institution Name]**. So, to have access to the shared data on Databrary, you would need your supervising professor to become authorized.
+
+Please read this information about affiliate status https://databrary.org/access.html.
+
+My apologies if I have misrepresented your position at **[Institution Name]** and you are eligible to become authorized as an investigator. Please update me with the appropriate profile.
+
+Best wishes,  
+Andrea
+
+### Email to investigator who created account but did not request authorization
+Subject: Regarding your Databrary account
+
+Dear Dr. [LAST NAME],
+
+Thank you for creating an account on Databrary and agreeing to abide by the Databrary Access Agreement.
+
+"Authorized investigator” status requires that the researcher be a professor (or similar) at a college or university. If you meet these requirements, please complete the registration process (https://nyu.databrary.org/user/register?page=create) by requesting authorization. Alternatively, researchers who work under the supervision of a professor (students, postdocs, staff) can be authorized as an “affiliate” by an authorized professor at their university.
+
+Please let me know if you have further questions regarding the authorization process.
+
+Many thanks, 
+Andrea
+
+
+
+Note: If you are having difficulty with the 'Request authorization' tab.
+
+- For "Authorized Investigator": 
+    - For New Institutions: Skip to the 'Submit Authorization' tab and enter your institutional information.
+    - For Existing Institutions: Please go to the profile page of your institution where you may also request access.
+- For "Affiliate": Please go to the profile page of your supervising professor where you may also request 
+
+### Email to investigator who doesn't understand how the Databrary authorization process works
+
+Subject: Regarding your Databrary account
+
+Dear Dr. [LAST NAME],
+
+I am glad to hear that you are interested in using Databrary for your research. Databrary authorization must be approved by your institution. In addition, to be an Authorized Investigator on Databrary you must have:
+
+  - PI status or be eligible to conduct independent research at your institution;
+  - All current research ethics training required by your institution; and
+  - An ethics or institutional review board that reviews and approves research involving human subjects.
+    
+If you are a post-doc, a doctoral student, or a lab staff member, you will need to request access from your supervisor or PI as an affiliate. Your supervisor or PI must register as an Authorized Investigator, if they have not already done so.
+
+If you are eligible to become an Authorized Investigator according to the items above, can you send me the link to your profile page on your university’s website? Or if you will need to become authorized as an affiliate, please ask your supervising professor to apply for authorization.
+
+Please let me know if you have any further questions regarding this authorization process.
+
+Kind regards,  
+Andrea
+
+## Request PI Approval to Submit Their Authorization
+
+Please note that your institutional email address needs to be used for your primary email and login. You may also provide me with an outside email (e.g. gmail) as additional contact information. I will use both email addresses in all correspondence.
+When the school is already approved
+Subject: Your Databrary Authorization
+
+Dear Dr. [Last Name],
+
+Thank you for registering on Databrary. I received your authorization request. The next step to complete your authorization is to send your Access Agreement to your university for their approval. The agreement needs to be approved by your office of sponsored programs—once they've co-signed your agreement, your authorization will be effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources. They verify that you are an independent researcher and that the university has an IRB that oversees your research activities.
+
+To save researchers time and annoyance, with each school I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. At **[YOUR INSTITUTION], [AUTHORIZING OFFICIAL]** previously approved agreements for other faculty and was very helpful in the authorization process.
+
+Can I have your permission to reach out to **[AUTHORIZING OFFICIAL] on your behalf (I will of course keep you in the loop on all correspondence)?
+
+Many thanks,
+Andrea
+
+When official is not known to PI
+Subject: Your Databrary Authorization
+
+Dear Dr. [Last Name],
+
+Thank you for registering on Databrary. We've received your request for authorization and need to send your Access Agreement to your university for their approval. If you agree, we would be happy to send your agreement on your behalf to make the process simple for you.
+
+The agreement should get submitted to the sponsored programs or grants & contracts office--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and the university has an IRB that oversees your research activities.
+
+To save researchers time and annoyance, with each new school, I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. At **[Institution Name]** it looks like that person may be **[AUTHORIZING OFFICIAL]**, but maybe you have a better point of contact to start with in that office?
+
+Can I have your permission to reach out to the appropriate official at **[Institution Name]** on your behalf (I will of course keep you in the loop on all correspondence)?
+
+Many thanks, 
+Andrea
+
+Can't Find the Authorization Official - European
+Subject: Your Databrary Authorization
+
+Dear Dr. [Last Name],
+
+Thank you for registering on Databrary. We've received your request for authorization and need to send your Access Agreement to your university for their approval. The agreement should get submitted to the research administration office or to an official that has authority to sign legally binding agreements on behalf of the institution--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and the university has an IRB that oversees your research activities.
+
+To save researchers time and annoyance, with each school I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. 
+
+Unfortunately, after reviewing your university's website, I am unable to determine who the appropriate person is to sign the Access Agreement. Can you please provide me with more information about which person or office at **[Institution Name]** is authorized to sign and execute contracts on behalf of the university?
+
+ 
+Once I have that information, with your permission, I will reach out to them on your behalf. I will of course keep you in the loop on all correspondence.
+Many thanks,
+Andrea
+
+
+
+Can't Find the Authorization Official - US
+Subject: Your Databrary Authorization
+
+
+Dear Dr. [Last Name],
+
+Thank you for registering on Databrary. I received your authorization request. The next step to complete your authorization is to send your Access Agreement to your university for their approval. The agreement needs to be approved by your office of sponsored programs—once they've co-signed your agreement, your authorization will be effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources. They verify that you are an independent researcher and that the university has an IRB that oversees your research activities.
+
+To save researchers time and annoyance, with each school I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. 
+
+Unfortunately, after reviewing your university's website, I am unable to determine who the appropriate person is to sign the Access Agreement. Can you please provide me with more information about which person or office at **[Institution Name]** is authorized to sign and execute contracts on behalf of the university?
+ 
+Once I have that information, with your permission, I will reach out to them on your behalf. I will of course keep you in the loop on all correspondence.
+
+Many thanks,
+Andrea
+CAN'T FIND THE AUTHORIZATION OFFICIAL - U.S.
+Subject: Your Databrary Authorization
+
+Dear Dr. [Last Name],
+
+Thank you for registering on Databrary. We've received your request for authorization and need to send your agreement to your university for their approval. The agreement should get submitted to the office that handles research administration or research agreements--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and they confirm that the university has ethical oversight of your research activities.
+
+To save researchers time and annoyance, with each new school I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. The individual who can sign the agreement is typically someone at the university level who has the authority to sign legally binding agreements on behalf of the university. We typically work with Offices of Sponsored Research and Grants and Contracts Offices. Do you know what office or individual might be able to sign your agreement?
+
+Once I have that information, with your permission, I will reach out to them on your behalf. I will of course keep you in the loop on all correspondence.
+
+Many thanks,
+Andrea
+
+CAN'T FIND THE AUTHORIZATION OFFICIAL- EUROPEAN
+Subject: Your Databrary Authorization
+
+Dear Dr. [Last Name],
+
+Thank you for registering on Databrary. We've received your request for authorization and need to send your agreement to your university for their approval. The agreement should get submitted to the office that handles research administration or research agreements--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and they confirm that the university has ethical oversight of your research activities.
+
+To save researchers time and annoyance, with each new school, I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. The individual who can sign the agreement is typically someone at the university level who has the authority to sign legally binding agreements on behalf of the university. With other universities, it has sometimes been the Vice-rector or Vice Provost of research. We usually know we've found the correct person if he or she can approve and sign funding proposals or grant agreements at the university. Do you know what office or individual might be able to sign your agreement?
+
+Once I have that information, with your permission, I will reach out to them on your behalf. I will of course keep you in the loop on all correspondence.
+
+Many thanks,
+Andrea
+
+When they list the person that is likely the right person
+Subject: Your Databrary Authorization
+
+Dear Dr. [PI LAST NAME],
+
+Thank you for registering on Databrary. We've received your request for authorization and need to send your agreement to your university for their approval. The agreement needs to get submitted to the sponsored programs or grants & contracts office--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and the university has an IRB that oversees your research activities.
+
+To save researchers time and annoyance, with each new school I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. You noted that the person to reach in your **[OFFICE NAME]** might be **[OSP Name]**.
+
+Can I have your permission to reach out to **[OSP Name]** on your behalf (and of course keep you in the loop all along the way)?
+
+Many thanks,
+Andrea
+
+When they list no one or the wrong person (e.g. themselves or dept. chair)
+Subject: Your Databrary Authorization
+
+Dear Dr. [PI LAST NAME],
+
+Thank you for registering on Databrary. We've received your request for authorization and need to send your agreement to your university for their approval. The agreement should get submitted to the sponsored programs or grants & contracts office--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and the university has an IRB that oversees your research activities.
+
+To save researchers time and annoyance, with each new school I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. The individual who can sign the agreement is typically someone at the university level who has the authority to sign legally binding agreements on behalf of the university. At **[UNIVERSITY]** it looks like that person may be **[AUTHORIZING OFFICIAL]** in the **[OFFICE NAME]**, but maybe you have a better point of contact to start with in that office?
+
+Can I have your permission to reach out to **[UNIVERISTY]** on your behalf (and of course keep you in the loop all along the way)?
+
+Many thanks,
+Andrea
