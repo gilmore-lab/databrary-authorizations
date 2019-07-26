@@ -29,7 +29,7 @@ Go to your email box, locate the auto-generated email from Databrary, and confir
 <img src="imgs/db-registration-email.png" alt="Account Created Email" width="80%"/>
 </p>
 
-Choose a password.  
+Please choose a password.  
 
 <p align="center">
 <img src="imgs/db-set-password.JPG" alt="Set Password" width="80%"/>
