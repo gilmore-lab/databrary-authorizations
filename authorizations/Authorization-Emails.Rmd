@@ -1008,7 +1008,7 @@ Andrea
 
 ## Various Account Issues  
 
-### PI REGISTERS WITH LAB EMAIL
+### PI Registers with Lab Email
 Every individual working with Databrary needs to have their own account. Lab Databrary accounts are not permitted. Could you please create a new account with your personal email address? Any researchers who work under your supervision (students, postdocs, staff) can be authorized as an “affiliate” once your authorization, with your individual account, is complete. 
 
 Many thanks,
@@ -1025,7 +1025,16 @@ Many thanks,
 
 Andrea
 
+### New Position at New Institution
 
+Dear Dr. [Investigator Last Name],
+
+Congratulations on your new position at [Institution Name]. Since you have moved institutions, it is necessary to be authorized through your home institution. [Institution Name] already has a couple of authorized investigators on Databrary. 
+
+Would you like to begin the Databrary authorization process through your new institution?
+
+Kind regards,
+Andrea
 
 ### Authorized Researcher changed affiliation without requesting authorization
 Dear Dr. [PI LAST NAME],
