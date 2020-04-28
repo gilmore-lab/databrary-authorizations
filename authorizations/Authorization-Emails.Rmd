@@ -2,7 +2,7 @@
 output: 
   html_document:
     toc: true
-    toc_levels: 3
+    toc_levels: 2
     toc_float: true
     number_sections: true
 ---
@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## New AI Requests
 
-### New Institution
+### New Institution  
 
 Subject: Databrary Access Agreement for Dr. [FULL NAME]
 
@@ -34,7 +34,7 @@ If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME
 Many thanks,  
 Andrea
 
-### Previously Approved Institution
+### Previously Approved Institution  
 
 Subject: Databrary Access Agreement for Dr. [FULL NAME]
 
@@ -75,7 +75,7 @@ All signatures and initials are required to be wet ink or Adobe certified digita
 
 Please let me know if you have any questions or need any further information.
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 ### Previously Approved institution - Amended Agreement
@@ -94,7 +94,7 @@ All signatures and initials are required to be wet ink or Adobe certified digita
 
 If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please let me know if you have any questions or need any further information.
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 ### When PI needs to submit paperwork to AOR
@@ -113,7 +113,7 @@ All signatures and initials are required to be wet ink or Adobe certified digita
 
 Please let me know if you have any questions or need any further information.
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 ## Specific Institution New Request Emails
@@ -131,7 +131,7 @@ Attached is the agreement for your review. Since you have previously completed a
 
 If you could kindly return the fully executed copy to me after you have signed it, that would be greatly appreciated.
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 ### PSU
@@ -153,7 +153,7 @@ All signatures and initials are required to be wet ink or Adobe certified digita
 
 If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please let me know if you have any questions or need any further information.
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 ### UMD
@@ -167,7 +167,7 @@ I'm writing on behalf of Dr. **[Full Name]** who is seeking authorization to Dat
 
 Thank you very much for your help.
 
-Best,
+Best,  
 Andrea
 
 
@@ -184,7 +184,7 @@ Dear [AUTHORIZING OFFICIAL],
 
 Can you offer any updates regarding Dr. **[RESEARCHER FULL NAME]**’s authorization request for Databrary access through **[INSTITUTION]**? We would like to get Dr. **[RESEARCHER LAST NAME]** authorized as soon as possible so **[she/he]** may access Databrary's shared resources and data. Please let me know if I can provide any assistance or if there is another person whom I should work with on this agreement.
 
-Best regards, 
+Best regards,   
 Andrea
 
 
@@ -207,7 +207,7 @@ You can find more information about Databrary on our website (databrary.org). We
 
 Attached is the agreement for your review. If you approve, kindly return the signed copy (handwritten signatures and initials are required) to me to complete Dr. **[PI Last Name]**'s authorization. Please let me know if you have any questions or need any further information.
 
-Many thanks,
+Many thanks,  
 Andrea
 
 ## Amendment Requests
@@ -221,7 +221,7 @@ We understand your concerns. However, hundreds of public institutions across the
 
 I look forward to hearing from you.
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 ### Reply when removal of indemnification is requested
@@ -234,7 +234,7 @@ We understand your concerns. However, hundreds of public institutions across the
 
 I look forward to hearing from you.
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 ### Amendment Rejected
@@ -247,12 +247,12 @@ Your institution asked to edit the indemnification clause in the agreement; howe
 
 I look forward to hearing from you.
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 
 
-####Example Reasons
+#### Example Reasons  
 doesn't make any representations about IP, and while generally we wouldn’t be looking for indirect damages
 
 ### Amendment Approved
@@ -266,7 +266,7 @@ All signatures and initials are required to be wet ink or Adobe certified digita
 
 If you approve, kindly return the signed copy to me to complete Dr. **[LAST NAME]**'s authorization. Please let me know if you have any questions or need any further information.
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 # PI Email Templates
@@ -310,7 +310,7 @@ Thank you for creating an account on Databrary and agreeing to abide by the Data
 
 Please let me know if you have further questions regarding the authorization process.
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 
@@ -359,7 +359,7 @@ To save researchers time and annoyance, with each school I have generally been s
 
 Can I have your permission to reach out to **[AUTHORIZING OFFICIAL] on your behalf (I will of course keep you in the loop on all correspondence)?
 
-Many thanks,
+Many thanks,  
 Andrea
 
 ### When official is not known to PI
@@ -373,9 +373,9 @@ The agreement should get submitted to the sponsored programs or grants & contrac
 
 To save researchers time and annoyance, with each new school, I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. At **[Institution Name]** it looks like that person may be **[AUTHORIZING OFFICIAL]**, but maybe you have a better point of contact to start with in that office?
 
-Can I have your permission to reach out to the appropriate official at **[Institution Name]** on your behalf (I will of course keep you in the loop on all correspondence)?
+Can I have your permission to reach out to the appropriate official at **[Institution Name]** on your behalf (I will of course keep you in the loop on all correspondence)?  
 
-Many thanks, 
+Many thanks,   
 Andrea
 
 ### Can't Find the Authorization Official - European
@@ -390,15 +390,16 @@ To save researchers time and annoyance, with each school I have generally been s
 Unfortunately, after reviewing your university's website, I am unable to determine who the appropriate person is to sign the Access Agreement. Can you please provide me with more information about which person or office at **[Institution Name]** is authorized to sign and execute contracts on behalf of the university?
 
  
-Once I have that information, with your permission, I will reach out to them on your behalf. I will of course keep you in the loop on all correspondence.
-Many thanks,
+Once I have that information, with your permission, I will reach out to them on your behalf. I will of course keep you in the loop on all correspondence.  
+
+Many thanks,  
 Andrea
 
 
 
-### Can't Find the Authorization Official - US
-Subject: Your Databrary Authorization
+### Can't Find the Authorization Official - US  
 
+Subject: Your Databrary Authorization
 
 Dear Dr. [Last Name],
 
@@ -410,9 +411,10 @@ Unfortunately, after reviewing your university's website, I am unable to determi
  
 Once I have that information, with your permission, I will reach out to them on your behalf. I will of course keep you in the loop on all correspondence.
 
-Many thanks,
-Andrea
-### CAN'T FIND THE AUTHORIZATION OFFICIAL - U.S.
+Many thanks,  
+Andrea 
+
+### CAN'T FIND THE AUTHORIZATION OFFICIAL - U.S.  
 Subject: Your Databrary Authorization
 
 Dear Dr. [Last Name],
@@ -423,10 +425,10 @@ To save researchers time and annoyance, with each new school I have generally be
 
 Once I have that information, with your permission, I will reach out to them on your behalf. I will of course keep you in the loop on all correspondence.
 
-Many thanks,
+Many thanks,  
 Andrea
 
-### CAN'T FIND THE AUTHORIZATION OFFICIAL- EUROPEAN
+### CAN'T FIND THE AUTHORIZATION OFFICIAL- EUROPEAN  
 Subject: Your Databrary Authorization
 
 Dear Dr. [Last Name],
@@ -437,7 +439,7 @@ To save researchers time and annoyance, with each new school, I have generally b
 
 Once I have that information, with your permission, I will reach out to them on your behalf. I will of course keep you in the loop on all correspondence.
 
-Many thanks,
+Many thanks,  
 Andrea
 
 ### When they list the person that is likely the right person
@@ -451,7 +453,7 @@ To save researchers time and annoyance, with each new school I have generally be
 
 Can I have your permission to reach out to **[OSP Name]** on your behalf (and of course keep you in the loop all along the way)?
 
-Many thanks,
+Many thanks,  
 Andrea
 
 ### When they list no one or the wrong person (e.g. themselves or dept. chair)
@@ -465,17 +467,16 @@ To save researchers time and annoyance, with each new school I have generally be
 
 Can I have your permission to reach out to **[UNIVERISTY]** on your behalf (and of course keep you in the loop all along the way)?
 
-Many thanks,
+Many thanks,  
 Andrea
 
 
 ## Follow Up Emails
 
 ### Clarify responsibilities of signatory (e.g. Italy) or anyone who wants someone else (e.g. Department Head) to sign
-Through the Databrary Access Agreement, your institution takes legal responsibility for your proper conduct with the research data contained on Databrary. This is one of the primary steps we take to protect the participants who have given permission to share their data with other researchers. Thus, we require someone with the legal authority to sign for your institution. If your Head of Department is willing - and permitted - to take legal responsibility for your conduct, then they are an acceptable executor. If the Head of Department is not legally permitted, then the Rector, Chancellor or Dean of Faculty might be more appropriate depending upon your institutional structure.
+Through the Databrary Access Agreement, your institution takes legal responsibility for your proper conduct with the research data contained on Databrary. This is one of the primary steps we take to protect the participants who have given permission to share their data with other researchers. Thus, we require someone with the legal authority to sign for your institution. If your Head of Department is willing - and permitted - to take legal responsibility for your conduct, then they are an acceptable executor. If the Head of Department is not legally permitted, then the Rector, Chancellor or Dean of Faculty might be more appropriate depending upon your institutional structure.  
 
-Many thanks,
-
+Many thanks,  
 Andrea
 
 ### When the PI wants to hold off because they do not have IRB approval
@@ -484,19 +485,23 @@ Subject: Following up on your Databrary authorization request
 Dear Dr. [PI Last Name],
 
 
-Welcome to the Databrary community! In general, you don't need IRB approval to join Databrary, if you just want to view data shared by others. Here are our guidelines regarding ethics board involvement:
-Ethics board oversight is required...to join Databrary. In other words, your institution must have an IRB or human subjects research ethics board (REB).
-Ethics board approval is NOT required...
-... for access to Databrary. In other words, just to browse.
-... to contribute data to Databrary that does not contain personally identifying information (PII). In other words, procedural videos, stims, coding files, analysis, computer codes, etc.
-Ethics board approval IS required...
-...to re-use data from Databrary. In other words, to conduct secondary data analyses.
-...to contribute data to Databrary that contains personally identifying information (PII). In other words, videos containing participant faces, names, dates of birth, etc.
-You can become a member of Databrary before getting your IRB approved but you need to wait for the IRB approval to re-use or contribute data. Does that make sense? Please let me know if you have any further questions. 
-Do you still wish to hold off on your Databrary application?
-Many thanks,
+Welcome to the Databrary community! In general, you don't need IRB approval to join Databrary, if you just want to view data shared by others. Here are our guidelines regarding ethics board involvement:  
+Ethics board OVERSIGHT IS required...  
+...to join Databrary. In other words, your institution must have an IRB or human subjects research ethics board (REB).    
+Ethics board approval is NOT required...    
+... for access to Databrary. In other words, just to browse.    
+... to contribute data to Databrary that does not contain personally identifying information (PII). In other words, procedural videos, stims, coding files, analysis, computer codes, etc.    
+Ethics board APPROVAL IS required...    
+...to re-use data from Databrary. In other words, to conduct secondary data analyses.    
+...to contribute data to Databrary that contains personally identifying information (PII). In other words, videos containing participant faces, names, dates of birth, etc.  
+
+You can become a member of Databrary before getting your IRB approved but you need to wait for the IRB approval to re-use or contribute data. Does that make sense? Please let me know if you have any further questions.     
+Do you still wish to hold off on your Databrary application?  
+
+Many thanks,    
 Andrea
-### Following up when AOR is known (2nd contact)
+
+### Following up when AOR is known (2nd contact)  
 Subject: Following up on your Databrary authorization request
 
 Dear Dr. [PI Last Name],
@@ -507,7 +512,7 @@ At **[Institution Name], [OSP name/Authorized Organizational Representative]** p
 
 Can I have your permission to reach out to **[OSP name/Authorized Organizational Representative]** on your behalf (I will of course keep you in the loop on all correspondence)?
 
-Many thanks,
+Many thanks,    
 Andrea
 
 ### Following up to complete internal paperwork
@@ -517,10 +522,10 @@ Dear Dr. [PI Last Name],
 
 I am writing to check in with you regarding the status of your Databrary Authorization request. I believe that [AOR name] needed internal paperwork completed prior to signing this agreement. Have you had the opportunity to complete the required items? We would like to get you authorized so you may access Databrary's shared resources and data. Please let me know if I can provide any assistance.
 
-Many thanks,
+Many thanks,  
 Andrea
 
-### Following up to determine AOR
+### Following up to determine AOR  
 Subject: Following up on your Databrary authorization request
 
 Dear Dr. [PI LAST NAME],
@@ -529,12 +534,11 @@ Have you had the opportunity to determine the Authorizing Official for your inst
 
 As a reminder the agreement should get submitted to the office that handles research administration or research agreements--they need to co-sign your agreement to make your authorization effective. By signing the agreement, the university agrees that they will take responsibility for your use of Databrary resources, they verify that you are an independent researcher and they confirm that the university has ethical oversight of your research activities.
 
-Many thanks,
-Andrea
+Many thanks,  
+Andrea  
 
+### Following up when AI submits to AOR  
 
-
-### Following up when AI submits to AOR
 Subject: Following up on your Databrary authorization request
 
 Dear Dr. [Last Name],
@@ -547,10 +551,8 @@ All signatures and initials are required to be wet ink or Adobe certified digita
 
 Please let me know if I can provide any assistance during this process.
 
-Best regards, 
+Best regards,   
 Andrea
-
-
 
 ### Difficulty getting authorization from institution
 
@@ -560,10 +562,8 @@ Dear Dr. [Last Name],
 
 I understand that you are having difficulty getting Databrary authorization from your institution. We’d love to help you to get authorized for Databrary access. Can I follow up with [OSP name/Authorized Organizational Representative] on your behalf (of course, I will cc you on all correspondence with your institution).
 
-Best wishes,
+Best wishes,  
 Andrea
-
-
 
 ### When AI wants to submit to AOR 
 Dear Dr. [Last Name],
@@ -582,7 +582,7 @@ When I receive your Databrary Access Agreement signed and initialed as necessary
 
 Please let me know if you have any further questions or if you would like me to contact your AOR.
 
-Many thanks,
+Many thanks,  
 Andrea
 
 ### FOLLOW UP FROM MONTHS OF NO RESPONSE OF SUBMITTED AGREEMENT
@@ -594,22 +594,16 @@ It’s been a couple months since we’ve heard from your school's Authorized Or
 
 We’d love to help you get authorized for Databrary access. Would you like us to follow up with your Authorized Organizational Representative again? If we still don’t hear anything, a nudge from you might help get your authorization back on their radar. Please let me know if there is anything we can do to help.
 
-Best,
+Best,    
 Andrea
-
-
 
 ### When removing an account that should not have been granted access
 Dear Dr. [PI Last Name],
 
 I understand that in **[Date]** you were authorized to access Databrary through [Institution Name]. Unfortunately after auditing our authorized institutions, [Institution Name] does not qualify due to it's [small business/lack of ethics oversight] classification. We will disable your account.
 
-
-
-Best,
+Best,    
 Andrea
-
-
 
 ### Why Doesn't the DAA have an end date?
 Here's Eric's answer:
@@ -619,7 +613,7 @@ Dear [AOR Name],
 
 The Databrary Access Agreement is purposely open-ended because Databrary was created to be a permanent data repository. In practice, a researcher - and thus the Institution - can effectively end their participation at any point by deleting their data. Of course, other investigators who have already downloaded those data may continue to use it within the parameters of Databrary’s permitted use.
 
-Best,
+Best,    
 Andrea
 
 ## Agreement Non-Compliance
@@ -631,7 +625,7 @@ Dear [Dr./Ms./Mr. OSP Last Name],
 
 Thank you for sending the signed agreement. However, upon review, it looks like you have inadvertently forgotten to put your initials on pages 2 and 3. Please, can you resend a fully executed copy with the needed initials so that we can process Dr. **[PI Name]**'s authorization request?
 
-Many thanks,
+Many thanks,    
 Andrea
 
 ### Agreement is missing handwritten signature
@@ -641,7 +635,7 @@ Dear [Dr./Ms./Mr. OSP Last Name],
 
 Thank you for sending the digitally signed agreement. However, a wet ink signature is required for the AOR. Please, can you resend a fully executed copy with the needed handwritten signature so that we can process Dr. **[PI Name]**'s authorization request?
 
-Many thanks,
+Many thanks,  
 Andrea
 
 ### Digital Signature not valid
@@ -651,10 +645,9 @@ Dear [Dr./Ms./Mr. OSP/PI Last Name],
 
 Thank you for returning the executed Databrary Access Agreement. 
 
- 
+Typed signatures, or inserted images of your signature, are not legally binding. New York University requires Databrary to obtain either scanned copies of actual ink signatures and initials, or a certificate signature (digital signature). For more information about obtaining legally binding e-signatures in Adobe, see: https://helpx.adobe.com/acrobat/using/certificate-based-signatures.html.  
 
-Typed signatures, or inserted images of your signature, are not legally binding. New York University requires Databrary to obtain either scanned copies of actual ink signatures and initials, or a certificate signature (digital signature). For more information about obtaining legally binding e-signatures in Adobe, see: https://helpx.adobe.com/acrobat/using/certificate-based-signatures.html.
-Many thanks,
+Many thanks,  
 Andrea
 
 ### Sent Old Agreement
@@ -669,8 +662,9 @@ Please be advised that we have slightly modified the Databrary Access Agreement 
 
 Please execute the attached agreement. Please provide your signature on page 1 and initials on page 3. Please request the [AOR] complete and provide a printed name/title and signature on page 1 and as well as providing initials after each section in Annex I on pages 2 and 3.
 
-As soon as fully executed copy is submitted, I may process your Databrary authorization request.
-Many thanks,
+As soon as fully executed copy is submitted, I may process your Databrary authorization request.  
+
+Many thanks,    
 Andrea
 
 ## Congratulations on your Authorization
@@ -680,9 +674,9 @@ Subject: Received Signed Databrary Agreement
 
 Dear Dr. [Last Name],
 
-Thank you for sending the signed agreement. We are excited that you are now a part of the authorized Databrary community. We will change your authorization on our site soon and you will receive an email notification as soon as we do. Please feel free to ask me any questions that you have about Databrary and its resources.
+Thank you for sending the signed agreement. We are excited that you are now a part of the authorized Databrary community. We will change your authorization on our site soon and you will receive an email notification as soon as we do. Please feel free to ask me any questions that you have about Databrary and its resources.  
 
-Best, 
+Best,   
 Andrea
 
 ### Congrats on your Authorization - AOR sent agreement
@@ -694,9 +688,9 @@ Thank you for sending the signed agreement.
 
 Dear Dr. [Last Name],
 
-We are excited that you are now a part of the authorized Databrary community. We will change your authorization on our site soon and you will receive an email notification as soon as we do. Please feel free to ask me any questions that you have about Databrary and its resources.
+We are excited that you are now a part of the authorized Databrary community. We will change your authorization on our site soon and you will receive an email notification as soon as we do. Please feel free to ask me any questions that you have about Databrary and its resources.  
 
-Best, 
+Best,     
 Andrea
 
 
@@ -714,7 +708,7 @@ What Databrary does require is that Dr. [Last Name] has appropriate ethics train
 
 Please do let me know if I can be of any assistance.
 
-Thanks,
+Thanks,  
 
 
 ### IRB APPROVAL NOT NECESSARY
@@ -726,7 +720,7 @@ The Databrary Access Agreement is designed to authorize researchers to access to
 
 I’m happy to talk anytime if you’d like to talk through our access model or if you have any other questions about the authorization process.
 
-Many thanks,
+Many thanks,    
 Andrea
 
 
@@ -738,16 +732,15 @@ Thank you for reaching out with this question. There is human subjects data in D
 
 On our end, the Databrary Access Agreement allows for the university to vouch for the faculty member and take responsibility for their use of Databrary data. The responsibility is on the authorized researcher (or the requestor) to seek the necessary approvals if they seek to do HS research with data from Databrary. Largely at the urging of our federal funders, we've set up Databrary to enable many use cases that don't constitute human subjects research. They would be governed by the same agreement but it would be their responsibility to submit an IRB application for their project. We don't require people notify Databrary if they are beginning human subjects research with the data.
 
-We've worked closely with federal officials, and legal and research ethics experts to create a framework that allows researchers to share and reuse the data in Databrary in a secure and protected way that can also speed the pace of discovery. So, largely the system is based on researchers fulfilling their responsibilities (which are set out in the Access Agreement). I hope that is helpful in answering your question about how this is handled administratively from our side. Please let me know if you have any further questions or would like to talk through it in more detail.
+We've worked closely with federal officials, and legal and research ethics experts to create a framework that allows researchers to share and reuse the data in Databrary in a secure and protected way that can also speed the pace of discovery. So, largely the system is based on researchers fulfilling their responsibilities (which are set out in the Access Agreement). I hope that is helpful in answering your question about how this is handled administratively from our side. Please let me know if you have any further questions or would like to talk through it in more detail.  
 
-Many thanks,
-
+Many thanks,    
 Andrea
 
 ### DUA vs. Databrary Agreement
 To provide a bit of background, this Agreement is different from a traditional DUA because there is no obligation for authorized investigators to use or to contribute data. Once our researchers are planning to share data from lab or repurpose shared data, they would seek proper IRB approval for those activities. Please let me know if you have any questions or if I can help in any way.
 
-Best,
+Best,  
 Andrea
 
 
@@ -775,19 +768,19 @@ We're so grateful for researchers like you who are passionate advocates for data
 
 Please let me know if there's anything I can do to make the authorization process less burdensome for you.
 
-Thanks,
+Thanks,  
 
 
 
 ### NOT A DATA USE AGREEMENT
-Unfortunately, some schools have interpreted our Access Agreement to be a more traditional Data Use Agreement which is not quite correct, and is why they are asking for IRB approval and consent information. Our agreement is different from a DUA because it grants contributor and access privileges to all shared data on Databrary. There is no obligation for authorized investigators to use or to contribute data. (DUAs, on the other hand, allow for the transfer of a specific dataset for a discrete research project, which is why they almost always require IRB approval to accompany the agreement.)
+Unfortunately, some schools have interpreted our Access Agreement to be a more traditional Data Use Agreement which is not quite correct, and is why they are asking for IRB approval and consent information. Our agreement is different from a DUA because it grants contributor and access privileges to all shared data on Databrary. There is no obligation for authorized investigators to use or to contribute data. (DUAs, on the other hand, allow for the transfer of a specific dataset for a discrete research project, which is why they almost always require IRB approval to accompany the agreement.)  
 
-I might suggest communicating that you are seeking authorization only to browse all the shared data, not to share your own data or conduct research using Databrary data to see if your Office of Research will process the agreement accordingly. Once you are planning to share data from your lab or repurpose shared data, you would seek IRB approval for those activities. Just to be clear for the question about consents, all shared Databrary data are collected under informed consent and explicit informed consent for sharing through Databrary.
+I might suggest communicating that you are seeking authorization only to browse all the shared data, not to share your own data or conduct research using Databrary data to see if your Office of Research will process the agreement accordingly. Once you are planning to share data from your lab or repurpose shared data, you would seek IRB approval for those activities. Just to be clear for the question about consents, all shared Databrary data are collected under informed consent and explicit informed consent for sharing through Databrary.  
 
-Of course, if it helps for me to communicate with your research office directly, I would be happy to do that. I hope we can find a way forward with your university and that we can get you authorized.
+Of course, if it helps for me to communicate with your research office directly, I would be happy to do that. I hope we can find a way forward with your university and that we can get you authorized.  
 
 ### Grandfathering Data - Sharing Release
-Dear Dr.  [Last Name],
+Dear Dr. [Last Name],
 
 Thanks so much for reaching out with your question and welcome to Databrary! We're thrilled to hear you guys are adding a sharing release to your protocols.
 
@@ -847,9 +840,9 @@ Your supervising professor will need to log in and grant you access by completin
 3. Select the appropriate radio buttons to 'Allow access to others' data shared on Databrary' in addition to selecting the radio button to 'Grant access to your group/lab data'. 
 4. Save Changes
 
-Please let me know if I may be of further assistance.
+Please let me know if I may be of further assistance.  
 
-Best,
+Best,  
 Andrea
 
 ### Email to authorized investigator explaining how to grant affiliate access.
@@ -872,10 +865,10 @@ You will need to log in and grant you access by completing the following:
 3. Select the appropriate radio buttons to 'Allow access to others' data shared on Databrary' in addition to selecting the radio button to 'Grant access to your group/lab data'. 
 4. Save Changes
 
-Please let me know if I may be of further assistance.
+Please let me know if I may be of further assistance.  
 
-Best,
-Andrea
+Best,  
+Andrea  
 
 ### Email to someone wanting to know how to request access
 
@@ -885,9 +878,9 @@ Dear Ms./Mr./Dr. [Last Name],
 
 I am glad you are interested in utilizing Databrary. Please complete the registration process (https://nyu.databrary.org/user/register?page=create) by creating an account and requesting authorization. This requires that the first 6 tabs on the left hand side of the page be completed. These steps have you enter the required information to initiate the authorization process: on the first tab, you'll provide your contact information, and on the second tab, read and agree to Databrary's terms. Then go to your email and follow the link to set a password, and then request authorization from your institution as an Authorized Investigator. Our staff will handle the rest!
 
-Please let me know if I may be of further assistance.
+Please let me know if I may be of further assistance.  
 
-Many thanks,
+Many thanks,  
 Andrea
 
 ## Ineligible Access Requests
@@ -904,9 +897,9 @@ All current research ethics training required by your institution; and
 An ethics or institutional review board that reviews and approves research involving human subjects.
 The Databrary Access Agreement guarantees other researchers in the Databrary community who have shared their data appropriate ethics oversight to protect their participants' privacy and confidentiality. Full details on Databrary's ethics requirements can be found here: https://www.databrary.org/resources/policies/databrary-policy-ethics-oversight.html
 
-Without further evidence that your institution has the required ethics oversight (or that you have completed the FWA process as outlined in our policy), we will be unable to authorize your institution.
+Without further evidence that your institution has the required ethics oversight (or that you have completed the FWA process as outlined in our policy), we will be unable to authorize your institution.  
 
-Best,
+Best,  
 Andrea
 
 ### For Qualified PIs, but Institutions that we are not sure meet all of the qualifications
@@ -920,9 +913,9 @@ You certainly have the qualifications that we require to join the Databrary comm
 you are eligible to conduct independent research at this Institution and the Institution accepts responsibility for its Authorized Investigators’ actions related to the use of Databrary,
 3. it grants you the authority to choose and manage affiliates who meet Databrary's qualifications and who agree to follow Databrary's ethical principles, and
 4. the person executing this Access Agreement on behalf of the Institution has the authority to do so.
-Does [Institution Name] meet these requirements, and can they execute legal agreements on your behalf? If so, please let us know the proper office or person there to contact to move your authorization forward.
+Does [Institution Name] meet these requirements, and can they execute legal agreements on your behalf? If so, please let us know the proper office or person there to contact to move your authorization forward.  
 
-Many thanks,
+Many thanks,  
 Andrea
 
 
@@ -937,10 +930,9 @@ Thank you for registering on Databrary.
 
 "Authorized investigator” status requires that you be a professor (or similar) at a non-profit college or university; your institution executes the Databrary Access Agreement on your behalf. We also require that your research is conducted under the supervision of an Institutional Review Board, or similar human subjects research ethics board. Finally, data on Databrary is provided for non-commercial use only and is subject to the terms of use outlined in the Databrary Access Agreement.
 
-Since [Institution Name] is a for profit institution, you do not meet the requirements to become a member of  Databrary. 
+Since [Institution Name] is a for profit institution, you do not meet the requirements to become a member of  Databrary.   
 
-Kind regards,
-
+Kind regards,  
 Andrea
 
 ### Non-Profit Companies
@@ -951,10 +943,9 @@ Dear Dr. [Last Name],
 
 "Authorized investigator” status requires that you be a professor (or similar) at a non-profit college or university; your institution executes the Databrary Access Agreement on your behalf. We require that all research uses of Databrary data, as well as your own data contributions, be conducted under the supervision of an Institutional Review Board, or similar human subjects research ethics board. In addition, the Institution must maintain an ethics or Institutional Review Board with U.S.-equivalent standards that reviews and approves research involving human subjects. Finally, data on Databrary is provided for non-commercial use only and is subject to the terms of use outlined in the Databrary Access Agreement. 
 
-For this reason, we cannot authorize small businesses, even those dedicated to such worthy causes as yours. 
+For this reason, we cannot authorize small businesses, even those dedicated to such worthy causes as yours.   
 
-Kind regards,
-
+Kind regards,  
 Andrea
 
 ### Individuals interested in AI
@@ -967,8 +958,7 @@ Dear Dr. [Last Name],
 
 For this reason, we cannot authorize individuals, even those dedicated to such worthy causes as yours. 
 
-Kind regards,
-
+Kind regards,  
 Andrea
 
 ## Institutional Issues  
@@ -981,8 +971,9 @@ Dear [Dr./Mr./Ms. LAST NAME],
 
 Thank you for your interest in joining the Databrary community. Unfortunately, based on our past experiences with **[INSTITUTION]**, there are structural barriers in place that prevent us from authorizing your access to Databrary. We are keeping close tabs on the situation, and will let you know as soon as the situation changes and we are able to move forward with your request.
 
-Meanwhile, you are welcome to access the data on Databrary that have been approved for public use.
-Many thanks,
+Meanwhile, you are welcome to access the data on Databrary that have been approved for public use.  
+
+Many thanks,  
 Andrea
 
 ### Institutional Issue:more personal
@@ -993,7 +984,8 @@ Thanks so much for your interest in joining the Databrary community - great rese
  
 Unfortunately, based on our past experiences with [Institution], there are structural barriers in place that prevent us from authorizing your access to Databrary. We are working hard to resolve the situation, and will let you know as soon as we are able to move forward with your request. You're in our system and we won't forget you, but please feel free to check in as you wish.
 Meanwhile, you are welcome to access the data on Databrary that have been approved for public use. We can also suggest the use of OpenfMRI (https://openfmri.org/) for your neuroimaging data storage.  
-Many thanks,
+
+Many thanks,  
 Andrea
 
 ## Support Emails  
@@ -1001,17 +993,17 @@ Andrea
 ### When support is requested, but is backlogged
 Dear Dr. [Last Name],
 
-Thank you for letting us know of the issue you are having with Databrary. I have submitted this to the support team. Please be patient with us as we currently have outstanding issues that we are working to resolve first.
+Thank you for letting us know of the issue you are having with Databrary. I have submitted this to the support team. Please be patient with us as we currently have outstanding issues that we are working to resolve first.  
 
-Kind regards, 
+Kind regards,   
 Andrea
 
 ## Various Account Issues  
 
 ### PI Registers with Lab Email
-Every individual working with Databrary needs to have their own account. Lab Databrary accounts are not permitted. Could you please create a new account with your personal email address? Any researchers who work under your supervision (students, postdocs, staff) can be authorized as an “affiliate” once your authorization, with your individual account, is complete. 
+Every individual working with Databrary needs to have their own account. Lab Databrary accounts are not permitted. Could you please create a new account with your personal email address? Any researchers who work under your supervision (students, postdocs, staff) can be authorized as an “affiliate” once your authorization, with your individual account, is complete.   
 
-Many thanks,
+Many thanks,  
 Andrea
 
 ### Multiple Databrary Accounts
@@ -1019,21 +1011,20 @@ Subject: Multiple Databrary Accounts
 
 Dear [Dr./Mr./Ms. LAST NAME],
 
-There are two accounts listed for you on Databrary, one with [Institution], ([Email],) and another one with [institution],  ([Email]). May I delete your XXXX account?
+There are two accounts listed for you on Databrary, one with [Institution], ([Email],) and another one with [institution],  ([Email]). May I delete your XXXX account?  
 
-Many thanks,
-
+Many thanks,  
 Andrea
 
 ### New Position at New Institution
 
-Dear Dr. [Investigator Last Name],
+Dear Dr. [Investigator Last Name],  
 
 Congratulations on your new position at [Institution Name]. Since you have moved institutions, it is necessary to be authorized through your home institution. [Institution Name] already has a couple of authorized investigators on Databrary. 
 
-Would you like to begin the Databrary authorization process through your new institution?
+Would you like to begin the Databrary authorization process through your new institution?  
 
-Kind regards,
+Kind regards,  
 Andrea
 
 ### Authorized Researcher changed affiliation without requesting authorization
@@ -1043,9 +1034,9 @@ Thank you for updating your institution affiliation. However it is necessary to 
 
 To save researchers time and annoyance, with each new school I have generally been submitting agreements to the university on behalf of the researcher requesting authorization. At **[NEW UNIVERSITY]** it looks like it may be **[OSP office]**, but maybe you have a better point of contact to start with in that office?
 
-Once we know the best office or official to contact, can I have your permission to reach out to the appropriate official at **[New University]** on your behalf (I will of course keep you in the loop on all correspondence)?
+Once we know the best office or official to contact, can I have your permission to reach out to the appropriate official at **[New University]** on your behalf (I will of course keep you in the loop on all correspondence)?  
 
-Many thanks,
+Many thanks,  
 Andrea
 
 
@@ -1059,8 +1050,8 @@ Every individual working with Databrary needs to have their own account. Lab Dat
 
 May I have your permission to delete the '[insert Lab Name and email address]' account?
 
-Many thanks,
-Andrea
+Many thanks,  
+Andrea  
 
 ### Request removal of Small Business Account
 Subject: Databrary Lab Account Removal
@@ -1069,7 +1060,7 @@ Dear Dr. [PI LAST NAME],
 
 You were previously authorized to access Databrary through your affiliation with CTIC. Unfortunately, after a recent audit, we noticed that CTIC does not qualify for Databrary access because it is a small business. Access to Databrary is limited to research institutions and for non-profit use. Because of this, we must disable your account, effective **[insert Date]**. If you have moved institutions, or feel that you meet all of our requirements for access (see here), please let us know immediately.
 
-Many thanks,  
+Many thanks,    
 Andrea
 
 ### Forgotten Username/Password
@@ -1082,7 +1073,7 @@ Your username for Databrary is the email that you used during the registration p
 
 Please go to https://nyu.databrary.org/user/password and enter your email so that you may reset your password.
 
-Best,
+Best,  
 Andrea
 
 ### Change Email ID and Password
@@ -1101,7 +1092,7 @@ If you can still log into your account using the [Old Email Address] account, I 
 This email address is the one that will be used to log into your account.
 
 Second:
-If you cannot still log into your Databrary account with the [Old Email Address] email address, it would be easier for you to create a new account and I will remove the old one. You can create a new account by completing the first 4 tabs here:  https://nyu.databrary.org/user/register?page=create
+If you cannot still log into your Databrary account with the [Old Email Address] email address, it would be easier for you to create a new account and I will remove the old one. You can create a new account by completing the first 4 tabs here:  https://nyu.databrary.org/user/register?page=create  
 
-Best,
+Best,  
 Andrea
