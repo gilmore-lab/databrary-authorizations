@@ -1,9 +1,3 @@
----
-title: "Databrary Access Agreement"
-author: "Andrea R Seisler"
-date: "5/14/2020"
----
-
 This is the page that should change to the below information: https://www.databrary.org/resources/agreement.html
 
 
