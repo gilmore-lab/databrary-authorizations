@@ -47,7 +47,7 @@ To register as an Authorized Investigator:
 1. Select the Authorized Investigator radio button and search for your institution. If your institution is not found in the drop down box, please select 'Other' and provide more information on the next screen.
 2. This will auto-generate a notification to the Databrary team with a Databrary Access Agreement, which needs to be signed both by you and your contracts office.
 3. Databrary's authorization team will be in touch within 24-48 business hours to help you through the process.
-4. There is more general information about becoming an Authorized Investigator on Databrary [here](https://www.databrary.org/access/responsibilities/investigators.html) and [here](https://www.databrary.org/access/guide/investigators/authorization.html).
+4. There is more general information about becoming an Authorized Investigator on Databrary [here](https://databrary.org/about/agreement.html) and [here](https://databrary.org/about/policies.html).
 
 <p align="center">
 <img src="imgs/db-request-authorization-AI-other.JPG" alt="Request Authorization for New Instituiton" width="80%"/>
